@@ -8,3 +8,7 @@ You can:
 2. Run end-to-end tests in the staging server
 3. Run unit tests or linting in your staging server
 4. Use a terminal to edit things in your staging servers
+
+Interested? [Try now.](https://layerci.com/onboarding)
+
+It's free for the first two developers!
